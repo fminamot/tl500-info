@@ -16,7 +16,11 @@ Workstation内でターミナルを開き、以下のコマンドを実行しま
 * [OpenShift Web Console](https://console-openshift-console.apps.ocp4.example.com)
 * [GitLab Server](https://gitlab-ce.apps.ocp4.example.com)
 
-### チーム別 (team1の場合)
+### PetBattle (team1の場合)
+* [PetBattle] (https://console-openshift-console.apps.ocp4.example.com/topology/ns/team1-test)
+* [CI/CD Pipeline] (https://console-openshift-console.apps.ocp4.example.com/dev-pipelines/ns/team1-ci-cd)
+
+### インフラ (team1の場合)
 * [ArgoCD UI] (https://argocd-server-team1-ci-cd.apps.ocp4.example.com)
 * [Nexus UI] (https://nexus-team1-ci-cd.apps.ocp4.example.com)
 * [SonarQube UI] (https://sonarqube-team1-ci-cd.apps.ocp4.example.com)
