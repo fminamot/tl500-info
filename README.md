@@ -22,7 +22,6 @@ Workstation内でターミナルを開き、以下のコマンドを実行しま
 
 ### インフラ (team1の場合)
 * [ArgoCD UI] (https://argocd-server-team1-ci-cd.apps.ocp4.example.com)
-* [Nexus UI] (https://nexus-team1-ci-cd.apps.ocp4.example.com)
 * [SonarQube UI] (https://sonarqube-team1-ci-cd.apps.ocp4.example.com)
   * ユーザー名: admin, パスワード: admin123
 * [Allure UI] (https://allure-team1-ci-cd.apps.ocp4.example.com/allure-docker-service/projects/pet-battle-api/reports/latest/index.html)
