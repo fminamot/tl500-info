@@ -6,7 +6,7 @@ Workstation内でターミナルを開き、以下のコマンドを実行しま
 
 ```
 [student@workstation ~]$ cd /home/student/
-[student@workstation ~]$ sudo ./set_tl500_network.sh --ip=10.82.3.193
+[student@workstation ~]$ sudo ./set_tl500_network.sh --ip=10.82.1.46
 
 ```
 
