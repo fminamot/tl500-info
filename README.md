@@ -10,6 +10,15 @@ Workstation内でターミナルを開き、以下のコマンドを実行しま
 
 ```
 
+## VSCodiumのインストール手順（2024/09/25 訂正）
+
+https://github.com/VSCodium/vscodium/releases/download/1.92.2.24228/codium-1.92.2.24228-el8.x86_64.rpm
+
+```
+[student@workstation ~]$ cd /home/student/Downloads
+[student@workstation ~]$ sudo dnf install codium-1.92.2.24228-el8.x86_64.rpm
+```
+
 ## リンク集
 ### 共通
 * [TL500 Technical Foundation Workbook(HTML)](http://tl500-docs-ja-tl500-tech-exercise.apps.ocp4.example.com/TL500.html)
