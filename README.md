@@ -12,6 +12,7 @@ Workstation内でターミナルを開き、以下のコマンドを実行しま
 
 ## VSCodiumのインストール手順（2024/09/25 訂正）
 
+Workstation内でFirefoxブラウザーを開き、以下をダウンロードします。
 https://github.com/VSCodium/vscodium/releases/download/1.92.2.24228/codium-1.92.2.24228-el8.x86_64.rpm
 
 ```
